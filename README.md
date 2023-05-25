@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastik Roy</h1>
-<h3 align="center">A Data Science nerd from India</h3>
+<h3 align="center">A Data Science Student from India</h3>
 
 - 🌱 I’m currently learning **MachineLearning,DeepLearning,BigDataAnalytics**
 
